@@ -3,6 +3,7 @@
 
 ## Description
 This application is a Streamlit-based web app for creating homographies from uploaded images. Users can select points on the images, and the app calculates and applies the homography transformation.
+![image](https://github.com/andoni-a/Homography_Streamlit/assets/148989111/d54f1ff8-6385-482b-b0ce-3fd7b325d454)
 
 ## Project Structure
 
