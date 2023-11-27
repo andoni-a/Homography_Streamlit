@@ -8,7 +8,7 @@ This application is a Streamlit-based web app for creating homographies from upl
 ## Project Structure
 
 ```
-Your-Project-Folder/
+Project-Folder/
 │
 ├── src/                   # Source code
 │   ├── app.py             # Main application file
@@ -24,12 +24,12 @@ Your-Project-Folder/
 
 1. Clone the repository:
    ```
-   git clone [Your GitHub Repo URL]
+   git clone [GitHub Repo URL]
    ```
 
 2. Navigate to the project directory:
    ```
-   cd [Your Project Folder]
+   cd [Project Folder]
    ```
 
 3. Install the required libraries:
