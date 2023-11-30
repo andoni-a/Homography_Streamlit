@@ -24,12 +24,12 @@ Project-Folder/
 
 1. Clone the repository:
    ```
-   git clone [GitHub Repo URL]
+   git clone (https://github.com/andoni-a/Homography_Streamlit)
    ```
 
 2. Navigate to the project directory:
    ```
-   cd [Project Folder]
+   cd Homography_Streamlit/src
    ```
 
 3. Install the required libraries:
